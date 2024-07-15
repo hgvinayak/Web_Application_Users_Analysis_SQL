@@ -30,7 +30,7 @@ Analysing the users activity and login details of the web application to derive 
 ![3](https://github.com/user-attachments/assets/82ee30ed-2179-4016-b66e-3807d31b025c)
 
 4. Add the query from 2 and get the percentage change in sessions from last quarter .
-![4](https://github.com/user-attachments/assets/72d3d149-f59d-4dcb-a999-b09dee3ce073)
+![4](https://github.com/user-attachments/assets/a902101b-569c-4e92-9e5c-657ee241223f)
 
 5.Display the user that had the highest session score for each day
 ![5](https://github.com/user-attachments/assets/15211351-0f30-447d-99d2-91c8c3f78940)
